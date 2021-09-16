@@ -1,0 +1,26 @@
+.navMenu li {
+	border: solid black 1px;
+	list-style: none;
+	display: inline-block;
+	padding: 10px;
+	text-decoration: none;
+	color: rgb(20, 20, 20);
+}
+.menu {
+	text-align: center;
+}
+#record {
+	background-color: rgb(10, 250, 10);
+}
+#cultura {
+	background-color: rgb(250, 50, 250);
+}
+#band {
+	background-color: rgb(150, 150, 250);
+}
+#globo {
+	background-color: rgb(247, 250, 50);
+}
+#sbt {
+	background-color: #ffffff;
+}
